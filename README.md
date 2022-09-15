@@ -2,7 +2,7 @@
 I’m an Engineering student at the University of Waterloo. Currently, I am working on implementing several platforms such as GitHub, RStudio, SQL Developer, and Power BI to create cohesive **data projects**! For my programming projects, I usually only upload to GitHub once significant progress has been made. 
 
 - ⚙️ I use `SQL`, `Java`, `R`, and visualization tools to develop thorough E2E data projects 
-- 🌱 I’m currently learning the fundamentals of working with Azure and Lakehouse architecture to enhance my knowledge on data engineering
+- 🌱 I’m currently learning the fundamentals of working with Azure and Lakehouse architecture to learn more about data engineering
 - 📫 Reach me: nicole.thapa@uwaterloo.ca or [LinkedIn](https://www.linkedin.com/in/nicolethapa/)
 
 ***
