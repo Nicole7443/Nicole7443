@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there👋 
 I’m an Engineering student at the University of Waterloo. Currently, I am working on implementing several platforms such as GitHub, RStudio, SQL Developer, and Power BI to create cohesive **data projects**! For my programming projects, I usually only upload to GitHub once significant progress has been made. 
 
 - ⚙️ I use `SQL`, `Java`, `R`, and visualization tools to develop thorough E2E data projects 
