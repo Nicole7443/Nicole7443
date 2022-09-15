@@ -3,7 +3,7 @@ I’m an Engineering student at the University of Waterloo. Currently, I am work
 
 - ⚙️ I use `SQL`, `Java`, `R`, and visualization tools to develop thorough E2E data projects 
 - 🌱 I’m currently learning the fundamentals of working with Azure and Lakehouse architecture to enhance my knowledge on data engineering
-- 📫 Reach me: nicole.thapa@uwaterloo.ca
+- 📫 Reach me: nicole.thapa@uwaterloo.ca or [LinkedIn](https://www.linkedin.com/in/nicolethapa/)
 
 ***
 ## 💻 Technologies
