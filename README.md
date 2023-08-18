@@ -10,5 +10,5 @@ A little bit more about me:
 
 ***
 ## 👯 Communities
-- **Data Analyst & Research Co-Lead** @ Tech+ UW, a student organization that aims to support students, from all backgrounds, to pursue a career in the tech industry.
+- **Data Analyst & Research Co-Lead** @ [Tech+ UW](https://www.techplusuw.com/), a student organization that aims to support students, from all backgrounds, to pursue a career in the tech industry.
 - **First Year Engineering Coach** @ UW Faculty of Engineering
