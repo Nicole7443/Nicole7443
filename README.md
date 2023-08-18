@@ -8,7 +8,6 @@ A little bit more about me:
 - 🌱 I’m currently learning Python for Machine Learning and fullstack development to build robust models and applications
 - 📫 Feel free to reach out to me at nicole.thapa@uwaterloo.ca or [LinkedIn](https://www.linkedin.com/in/nicolethapa/)!
 
-***
 ## 👯 Communities
 - **Data Analyst & Research Co-Lead** @ [Tech+ UW](https://www.techplusuw.com/), a student organization that aims to support students, from all backgrounds, to pursue a career in the tech industry.
 - **First Year Engineering Coach** @ UW Faculty of Engineering
