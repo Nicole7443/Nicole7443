@@ -1,4 +1,4 @@
-## Hi there, I'm Nicole👋🏼 
+## 👋🏼 Hi there, I'm Nicole!
 I am a rising 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo with a Computing specialization. I am currently seeking a ***Summer 2024 (May-August)*** internship relating to data analytics/engineering and technical product management!
 
 A little bit more about me:
