@@ -1,18 +1,12 @@
-## Hi there👋 
-I’m an Engineering student at the University of Waterloo. Currently, I am working on implementing several platforms such as GitHub, RStudio, SQL Developer, and Power BI to create cohesive **data projects**! For my programming projects, I usually only upload to GitHub once significant progress has been made. 
+## Hi there, I'm Nicole👋🏼 
+I am a rising 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo with a Computing specialization. I am currently seeking a ***Summer 2024 (May-August)**** internship relating to data analytics/engineering and technical product management!
 
-- ⚙️ I use `SQL`, `Java`, `R`, `Python` and visualization tools to develop thorough E2E data projects 
-- 🌱 I’m currently learning the fundamentals of working with Azure and Data Lakehouse architecture to learn more about data engineering!
-- 📫 Reach me: nicole.thapa@uwaterloo.ca or [LinkedIn](https://www.linkedin.com/in/nicolethapa/)
+A little bit more about me:
 
-***
-## 💻 Technologies
-Talk to me about:
-- Creating beautiful data visualizations in `Power BI` or `Tableau`
-- Using the data analytics cycle or SDLC for projects
-- Performing statistical analyses on large, complex datasets in `R`
-- Describing the ETL/ELT process and the concept of data warehousing
-- Explaining the necessary steps for cloud migration projects
+- 💼 I'm a **Supply Chain Optimization Engineer Intern** @ [Loblaw Companies Ltd.](https://www.loblaw.ca/) and was previously an **Analytics Engineer** at [OMERS](https://www.omers.com/)
+- ⚙️ The languages I use the most for school, co-op, and personal projects are I use `Java`, `SQL`, `JavaScript`, `R`, and `Python`
+- 🌱 I’m currently learning Python for Machine Learning and fullstack development to build robust models and applications
+- 📫 Feel free to reach out to me at nicole.thapa@uwaterloo.ca or [LinkedIn](https://www.linkedin.com/in/nicolethapa/)!
 
 ***
 ## 👯 Communities
