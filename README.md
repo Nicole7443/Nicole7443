@@ -1,13 +1,8 @@
-## 👋🏼 Hi there, I'm Nicole!
-I am a 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo with a Computing specialization. I am currently seeking a ***Summer 2024 (May-August)*** internship relating to data analytics/engineering and technical product management!
+## 👋🏼 Hi, I'm Nicole!
+I am an incoming 4th year [Management Engineering & Computing](https://uwaterloo.ca/future-students/programs/management-engineering) student @ UWaterloo. I am currently seeking a final ***Fall 2025 (Sep-Dec)*** co-op placement in the areas of product/program management, data science, and process improvement!
 
 A little bit more about me:
 
-- 💼 I'm a **Supply Chain Optimization Intern** @ [Loblaw Companies Ltd.](https://www.loblaw.ca/) and was previously an **Analytics Engineer** @ [OMERS](https://www.omers.com/)
-- ⚙️ The languages I use the most for school, co-op, and personal projects are I use `Java`, `SQL`, `JavaScript`, `R`, and `Python`
-- 🌱 I’m currently learning Python for Machine Learning to explore my interests in ML and AI!
-- 📫 Feel free to reach out to me at nicole.thapa@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/nicolethapa/)!
-
-## 👯 Communities
-- **Data Analyst & Research Co-Lead** @ [Tech+ UW](https://www.techplusuw.com/), a student organization that aims to support students, from all backgrounds, to pursue a career in the tech industry.
-- **First Year Engineering Coach** @ UW Faculty of Engineering
+- 💼 I'm a **2x Technical Program Management (TPM) Intern @ Microsoft** in Azure Hardware Systems [(HIFE)](https://azure.microsoft.com/en-us/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/)
+- ⚙️ I have professional work experience using the following languages: `Python` `Java` `SQL` `JavaScript` `R`
+- 📫 Feel free to reach out to me at nicole7443thapa@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nicolethapa/)
